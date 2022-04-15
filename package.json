@@ -6,7 +6,7 @@
     "publisher": "DanielFitzsimmons",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/DanielFitzsimmons/macos-one-dark"
     },
     "engines": {
         "vscode": "^1.66.0"
