@@ -2,12 +2,18 @@
     "name": "macos-one-dark",
     "displayName": "MacOS One Dark",
     "description": "MacOS One Dark Theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "DanielFitzsimmons",
     "repository": {
         "type": "git",
         "url": "https://github.com/DanielFitzsimmons/macos-one-dark"
     },
+    "keywords": [
+        "theme",
+        "macos",
+        "dark",
+        "one dark"
+    ],
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -20,6 +26,11 @@
                 "label": "MacOS One Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MacOS One Dark-color-theme.json"
+            },
+            {
+                "label": "MacOS One Dark Background",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MacOS One Dark Background-color-theme.json"
             }
         ]
     }
